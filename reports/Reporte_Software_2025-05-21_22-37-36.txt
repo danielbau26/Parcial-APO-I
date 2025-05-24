@@ -1,0 +1,3 @@
+231569-Fallo en Microsoft Teams-BAJO-2025-05-21T21:33-Windows,Microsft,14.2.5
+101-Windows no inicia despu�s de una actualizaci�n-ALTO-2025-05-21T22:37-Windows 10,Sistema operativo,2.2.5
+123-Outlook no recibe correos desde ayer-MEDIO-2025-05-21T23:50-Windows 10,Microsft Outlook,23.03.05

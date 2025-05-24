@@ -1,0 +1,3 @@
+1234-Error con la pantalla del computador-BAJO-2025-05-21T21:32-Pantalla led-4536-false
+123-El equipo no arranca, pantalla en negro-ALTO-2025-05-21T22:34-Disco duro-5678-false
+04256-El ventilador hace ruido excesivo-MEDIO-2025-05-21T22:35-Ventilador-777568-true
